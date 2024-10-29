@@ -1,0 +1,6 @@
+set number
+set relativenumber
+set clipboard=unnamed
+set list
+
+vnoremap p pgvy
